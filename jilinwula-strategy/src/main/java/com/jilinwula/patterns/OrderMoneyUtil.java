@@ -3,11 +3,11 @@ package com.jilinwula.patterns;
 /**
  * 订单金额
  */
-public class OrderMoney {
+public class OrderMoneyUtil {
 
     private AbstractDiscount abstractDiscount;
 
-    public OrderMoney(AbstractDiscount abstractDiscount) {
+    public OrderMoneyUtil(AbstractDiscount abstractDiscount) {
         this.abstractDiscount = abstractDiscount;
     }
 
