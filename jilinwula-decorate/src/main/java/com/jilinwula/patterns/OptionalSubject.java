@@ -1,13 +1,13 @@
 package com.jilinwula.patterns;
 
-public class OptionalSubject extends School {
-    protected School school;
+public class OptionalSubject extends AbstractSchool {
+    protected AbstractSchool abstractSchool;
 
-    public OptionalSubject(School school) {
-        this.school = school;
+    public OptionalSubject(AbstractSchool abstractSchool) {
+        this.abstractSchool = abstractSchool;
     }
 
     public StringBuffer getOptionalCourse() {
-        return school.getOptionalCourse();
+        return abstractSchool.getOptionalCourse();
     }
 }

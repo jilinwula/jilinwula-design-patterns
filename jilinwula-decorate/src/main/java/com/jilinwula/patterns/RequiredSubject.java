@@ -1,6 +1,6 @@
 package com.jilinwula.patterns;
 
-public class RequiredSubject extends School {
+public class RequiredSubject extends AbstractSchool {
 
     public StringBuffer getOptionalCourse() {
         StringBuffer StringBuffer = new StringBuffer();
