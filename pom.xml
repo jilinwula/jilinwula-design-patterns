@@ -11,6 +11,7 @@
         <module>jilinwula-simple-factory</module>
         <module>jilinwula-strategy</module>
         <module>jilinwula-decorate</module>
+        <module>design-patterns-proxy</module>
     </modules>
 
     <packaging>pom</packaging>

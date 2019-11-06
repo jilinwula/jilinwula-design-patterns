@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>jilinwula-strategy</artifactId>
+    <artifactId>design-patterns-strategy</artifactId>
 
 
 </project>

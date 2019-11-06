@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>jilinwula-simple-factory</artifactId>
+    <artifactId>design-patterns-simple-factory</artifactId>
 
     <packaging>jar</packaging>
 
