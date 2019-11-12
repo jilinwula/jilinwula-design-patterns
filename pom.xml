@@ -8,10 +8,11 @@
     <artifactId>jilinwula-design-patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>jilinwula-simple-factory</module>
-        <module>jilinwula-strategy</module>
-        <module>jilinwula-decorate</module>
+        <module>design-patterns-simple-factory</module>
+        <module>design-patterns-strategy</module>
+        <module>design-patterns-decorate</module>
         <module>design-patterns-proxy</module>
+        <module>design-patterns-factory</module>
     </modules>
 
     <packaging>pom</packaging>
