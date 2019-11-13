@@ -13,6 +13,7 @@
         <module>design-patterns-decorate</module>
         <module>design-patterns-proxy</module>
         <module>design-patterns-factory</module>
+        <module>design-patterns-prototype</module>
     </modules>
 
     <packaging>pom</packaging>
