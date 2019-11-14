@@ -14,6 +14,7 @@
         <module>design-patterns-proxy</module>
         <module>design-patterns-factory</module>
         <module>design-patterns-prototype</module>
+        <module>design-patterns-template</module>
     </modules>
 
     <packaging>pom</packaging>
