@@ -15,6 +15,7 @@
         <module>design-patterns-factory</module>
         <module>design-patterns-prototype</module>
         <module>design-patterns-template</module>
+        <module>design-patterns-facade</module>
     </modules>
 
     <packaging>pom</packaging>
