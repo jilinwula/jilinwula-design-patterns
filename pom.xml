@@ -17,6 +17,7 @@
         <module>design-patterns-template</module>
         <module>design-patterns-facade</module>
         <module>design-patterns-builder</module>
+        <module>design-patterns-observer</module>
     </modules>
 
     <packaging>pom</packaging>
