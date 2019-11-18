@@ -18,6 +18,7 @@
         <module>design-patterns-facade</module>
         <module>design-patterns-builder</module>
         <module>design-patterns-observer</module>
+        <module>design-patterns-abstract-factory</module>
     </modules>
 
     <packaging>pom</packaging>
