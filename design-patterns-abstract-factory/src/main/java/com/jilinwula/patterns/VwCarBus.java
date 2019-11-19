@@ -1,8 +1,8 @@
 package com.jilinwula.patterns;
 
-public class HongQiBus implements BusCar {
+public class VwCarBus implements CarBus {
     @Override
     public Car makeBus() {
-        return new Car("红旗BUS");
+        return new Car("大众Bus");
     }
 }

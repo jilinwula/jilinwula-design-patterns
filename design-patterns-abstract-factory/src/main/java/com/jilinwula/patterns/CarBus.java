@@ -1,5 +1,5 @@
 package com.jilinwula.patterns;
 
-public interface BusCar {
+public interface CarBus {
     Car makeBus();
 }

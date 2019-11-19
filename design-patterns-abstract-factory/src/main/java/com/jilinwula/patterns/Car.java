@@ -4,9 +4,9 @@ import lombok.Data;
 
 @Data
 public class Car {
-    private String name;
+    private String brand;
 
-    public Car(String name) {
-        this.name = name;
+    public Car(String brand) {
+        this.brand = brand;
     }
 }

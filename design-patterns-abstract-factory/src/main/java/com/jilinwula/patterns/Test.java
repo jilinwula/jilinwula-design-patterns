@@ -2,11 +2,11 @@ package com.jilinwula.patterns;
 
 public class Test {
     public static void main(String[] args) {
-        CarFactory carFactory = new BenTengFactory();
-        Car suv = carFactory.makeSuv();
-        System.out.println(suv);
+        CarFactory carFactory = new FawCarFactory();
+        CarSuv carSuv = carFactory.makeSuv();
+        System.out.println(carSuv.makeSuv());
 
-        Car bus = carFactory.makeBus();
-        System.out.println(bus);
+        CarBus carBus = carFactory.makeBus();
+        System.out.println(carBus.makeBus());
     }
 }

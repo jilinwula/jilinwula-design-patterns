@@ -1,5 +1,5 @@
 package com.jilinwula.patterns;
 
-public interface SuvCar {
+public interface CarSuv {
     Car makeSuv();
 }

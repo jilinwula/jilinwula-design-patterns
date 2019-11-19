@@ -1,8 +1,8 @@
 package com.jilinwula.patterns;
 
-public class HongQiSuv implements SuvCar {
+public class VwCarSuv implements CarSuv {
     @Override
     public Car makeSuv() {
-        return new Car("红旗SUV");
+        return new Car("大众Suv");
     }
 }
