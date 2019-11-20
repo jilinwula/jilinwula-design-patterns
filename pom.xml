@@ -19,6 +19,7 @@
         <module>design-patterns-builder</module>
         <module>design-patterns-observer</module>
         <module>design-patterns-abstract-factory</module>
+        <module>design-patterns-adapter</module>
     </modules>
 
     <packaging>pom</packaging>
